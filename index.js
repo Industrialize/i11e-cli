@@ -20,5 +20,5 @@ var robot = new Robot(argv);
 if (argv.g) {
   require('./lib/graphics')(robot);
 } else {
-  // require('./lib/cli')(robot);
+  require('./lib/cli')(Robot);
 }
