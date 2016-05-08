@@ -9,7 +9,7 @@
     "build": "babel src -d lib",
     "dev-build": "babel src -d lib --source-maps"
   },
-  "author": "Bo HOU <bhoustudio@gmail.com> (https://github.com/bhou/crawlerjs)",
+  "author": "Bo HOU <daily.bhou@gmail.com> (https://github.com/bhou)",
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.7.4",
